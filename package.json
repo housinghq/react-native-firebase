@@ -92,16 +92,5 @@
     "lib/**/*.js": ["eslint --fix", "git add"],
     "tests/{src|lib}/**/*.js": ["eslint --fix", "git add"],
     "*.{json,md,scss}": ["prettier --write", "git add"]
-  },
-  "bugs": {
-    "url": "https://github.com/invertase/react-native-firebase/issues"
-  },
-  "homepage": "https://github.com/invertase/react-native-firebase#readme",
-  "bin": {
-    "react-native-firebase": "test.js"
-  },
-  "directories": {
-    "lib": "lib",
-    "test": "tests"
   }
 }
