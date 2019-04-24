@@ -575,6 +575,7 @@
 					"$(SRCROOT)/../../../ios/Pods/FirebaseRemoteConfig/Frameworks",
 					"$(SRCROOT)/../../../ios/Pods/FirebaseStorage/Frameworks",
 					"$(SRCROOT)/../../../ios/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks",
+					"$(BUILD_ROOT)/../IntermediateBuildFilesPath/UninstalledProducts/iphoneos/**",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
